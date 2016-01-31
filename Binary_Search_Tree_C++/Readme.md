@@ -5,16 +5,11 @@ Citation -
            California State University, Chico
 
 
-YOU MUST WORK INDEPENDENTLY ON THIS PROGRAMMING ASSIGNMENT!
 
-This assignment is worth 100 points. Your program will be graded on:
 
-correctness (80%)
-readability & style (20%)
+The Program - C++ Implementation of Binary Search Tree for an application program
 
-Read this assignment completely and thoroughly and repeatedly. Not following directions will cost you (potentially many) points!
 
-The Program -
 
 You are developing some software for an online dictionary. Fast retrieval of definitions is important, and the following functions will be supported:
 
@@ -48,29 +43,6 @@ printPostOrder
 Print all words and their definitions, using a post-order tree traversal.
 
 You may need to add public and/or private functions or private member variables. In BST, use a private inner class Node, with public member variables and constructor/destructor. This makes it so that Node cannot be seen outside BST, and BST has public access to everything in Node. You may want to add additional constructors for Node. Your approach must correspond to this specification, including the naming of classes and member variables and functions. This eases the task of the grader who has to look at your code! Note especially that Node stores pointers to strings; it does not store the strings themselves. You are responsible for all memory allocation and deallocation. In order to implement the "print all" functions, you might consider adding functions that will return a vector of const string pointers (or references) in the appropriate order. This would allow you to get the dump of the dictionary in one function call. Returning pointers or references will be efficient, and making them const will protect the dictionary contents. You might find this discussion of const helpful, as well as Dr. Gibson's tutorial on references & constants.
-
-Your implementation must consist of the following set of files:
-
-dictionary.h
-dictionary.cpp
-bst.h
-bst.cpp
-
-These are provided for you:
-
-main.cpp
-makefile
-The sample input and correct output are provided for you for initial testing (right-click and save-as - do not copy and paste from a web page as you may get unexpected hidden characters in your files):
-
-commands.txt
-output.txt (generated using the commands file)
-
-You should be able to interactively type commands and see the output. To use redirection from/to file...
-
-compile and link:
-run using dictionary < commands.txt > myoutput.txt
-Use diff to compare your output to the correct output.
-
 To maximize points, implement, test, and debug features in the following order. Testing for points will be done incrementally in this order.
 
 add
