@@ -1,4 +1,6 @@
-<<<<<<< HEAD
+Citation - This assignment is from a course at California State University, Chico. Thereby, all credits for assignment instructions and program problem statement should be given to the cited personnel or organization. http://www.ecst.csuchico.edu/~judyc/1516F-csci311/assignments/program1-bst.html Professor Judith Challinger, California State University, Chico
+
+
 Project - This programming assignment needs you to implement different sorting algorithms using C++ like, merge sort, insertion sort and randomized quick sort.
 
 This assignment is both an exercise in implementing some of the sorting algorithms we have been discussing, and an opportunity to conduct some timing tests in order to gather empirical data about the amount of time different sorts take on different amounts of data.
@@ -26,6 +28,7 @@ CensusData.cpp
 CensusDataSorts.cpp
 CensusSort.cpp
 makefile
+
 Class CensusData stores the census data in a vector and provides several different sorting functions. The data may be sorted by population value or by city name. Your job is to write the following functions that will sort the census data, by either population or city name:
 
 CensusData::insertionSort( )
@@ -46,6 +49,7 @@ After downloading all of the files...
 compile and link with make
 run using csort 3cities.csv
 You will probably want to redirect the output to a file using the redirection operator >. Some of the runs may take long enough that your remote connection to jaguar will time out due to inactivity. If this happens, run it in the background.
+
 
 After you implement your sort functions, and have determined that they sort the data correctly, run csort on each of the provided census files. For each type of sort, and each sorting target (population or city), collect timing information for 5 separate runs on each input file. Use the smallest of the 5 values to plot one point in a graph. You will create 6 graphs, each will have the number of records along the x-axis, and the time taken on the y-axis:
 
@@ -74,7 +78,3 @@ Turn-in Procedure:
 
 zip your project report, CensusData.h, and CensusDataSorts.cpp
 name your zipfile with first initial, last name - as in jchallinger.zip (or .tar.gz)
-submit the zip file in Bb Learn
-=======
-Citation - This assignment is from a course at California State University, Chico. Thereby, all credits for assignment instructions and program problem statement should be given to the cited personnel or organization. http://www.ecst.csuchico.edu/~judyc/1516F-csci311/assignments/program1-bst.html Professor Judith Challinger, California State University, Chico
->>>>>>> 4a2f0a60d91fc5b08b8b6f06ed9116ded55f2e4c
