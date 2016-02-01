@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Project - This programming assignment needs you to implement different sorting algorithms using C++ like, merge sort, insertion sort and randomized quick sort.
 
 This assignment is both an exercise in implementing some of the sorting algorithms we have been discussing, and an opportunity to conduct some timing tests in order to gather empirical data about the amount of time different sorts take on different amounts of data.
@@ -74,3 +75,6 @@ Turn-in Procedure:
 zip your project report, CensusData.h, and CensusDataSorts.cpp
 name your zipfile with first initial, last name - as in jchallinger.zip (or .tar.gz)
 submit the zip file in Bb Learn
+=======
+Citation - This assignment is from a course at California State University, Chico. Thereby, all credits for assignment instructions and program problem statement should be given to the cited personnel or organization. http://www.ecst.csuchico.edu/~judyc/1516F-csci311/assignments/program1-bst.html Professor Judith Challinger, California State University, Chico
+>>>>>>> 4a2f0a60d91fc5b08b8b6f06ed9116ded55f2e4c
