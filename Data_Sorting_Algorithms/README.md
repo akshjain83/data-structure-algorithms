@@ -69,12 +69,3 @@ Follow the pseudocode given in Cormen - use close to the same function names, an
 Make sure that you run all of your timing tests on the same machine.
 Be sure to document your part of the code and be consistent with style, naming, indentation, etc.
 Your report must be entirely in ONE pdf document.
-Suggestions:
-
-Get started right away! Can't emphasize this enough!!
-Implementation is a small part of this assignment - running the tests, graphing, thinking about the results, drawing conclusion, and creating the report, will take most of the time needed to complete the assignment.
-You may need to refer to a library reference manual.
-Turn-in Procedure:
-
-zip your project report, CensusData.h, and CensusDataSorts.cpp
-name your zipfile with first initial, last name - as in jchallinger.zip (or .tar.gz)
