@@ -1,4 +1,4 @@
-Citation - This assignment is from a course at California State University, Chico. Thereby, all credits for assignment instructions and program problem statement should be given to the cited personnel or organization. http://www.ecst.csuchico.edu/~judyc/1516F-csci311/assignments/program1-bst.html Professor Judith Challinger, California State University, Chico
+Citation - This assignment is from a course at California State University, Chico. Thereby, all credits for assignment instructions and program problem statement should be given to the cited personnel or organization. http://www.ecst.csuchico.edu/~judyc/1516F-csci311/assignments/program3-hash.html Professor Judith Challinger, California State University, Chico
 
 The Program
 
