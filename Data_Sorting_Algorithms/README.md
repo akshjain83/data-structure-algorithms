@@ -1,9 +1,14 @@
-Citation - This assignment is from a course at California State University, Chico. Thereby, all credits for assignment instructions and program problem statement should be given to the cited personnel or organization. http://www.ecst.csuchico.edu/~judyc/1516F-csci311/assignments/program1-bst.html Professor Judith Challinger, California State University, Chico
+Citation - This assignment is from a course at California State University, Chico. Thereby, all credits for assignment instructions and program problem statement should be given to the cited personnel or organization. http://www.ecst.csuchico.edu/~judyc/1516F-csci311/assignments/program2-sorting.html Professor Judith Challinger, California State University, Chico
+
 
 
 Project - This programming assignment needs you to implement different sorting algorithms using C++ like, merge sort, insertion sort and randomized quick sort.
 
+
 This assignment is both an exercise in implementing some of the sorting algorithms we have been discussing, and an opportunity to conduct some timing tests in order to gather empirical data about the amount of time different sorts take on different amounts of data.
+
+
+
 
 The Program
 
