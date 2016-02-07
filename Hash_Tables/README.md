@@ -1,26 +1,9 @@
-SCI 311 Programming Assignment 3
-
-Programming Assignment 3 
-Due: Before Thursday, October 29, 11 pm.
-Grace period: Before Friday, October 30, 11 pm - 10 point deduction. 
-No assignments will be accepted after the Grace period ends.
-
-YOU MUST WORK INDEPENDENTLY ON THIS PROGRAMMING ASSIGNMENT!
-
-If you are repeating this course and have done this assignment before, it is recommended that you start over. In addition, you are required to implement a different hash function than you did in the previous semester. You should aim to earn 100% the second time around.
-
-Don't hesitate to ask questions or ask for help!
-
-This assignment is worth 100 points. Your program will be graded on:
-
-correctness (80%)
-quality of hash function (10%)
-readability, style, & design (10%)
-Review my expectations for programming assignments.
+Citation - This assignment is from a course at California State University, Chico. Thereby, all credits for assignment instructions and program problem statement should be given to the cited personnel or organization. http://www.ecst.csuchico.edu/~judyc/1516F-csci311/assignments/program1-bst.html Professor Judith Challinger, California State University, Chico
 
 The Program
 
 In this assignment you will write a program to create a hash table for 5-letter words. You will need to design and implement your own hash function. Your grade will be based on both passing the functionality tests and the success of your hash function.
+
 
 The Hash Table
 
@@ -94,16 +77,5 @@ Your program must compile and execute on jaguar using -std=c++11 -Wall -W -Werro
 Be sure to document your code and be consistent with style, naming, indentation, etc.
 Suggestions:
 
-Get started right away! Can't emphasize this enough!!
-Implement the hash table and then use the provided main.cpp and hash_function.cpp to execute. Compare your output to the provided sample.out using diff to ensure that your hash table functions properly and meets all requirements. Once you have that done, then you can go to work on the hash function.
-You may need to refer to a library reference manual.
-Turn-in Procedure:
 
-you will turn in these files and these files ONLY - do not turn in executable or object files, or a makefile
-hash.h
-hash.cpp
-hash_function.cpp
-zip (or tar) all of the above
-name your zipfile with first initial, last name - as in jchallinger.zip (or .tar.gz)
-submit your zipfile in Bb Learn
 Citation: This assignment originated at UC Riverside
