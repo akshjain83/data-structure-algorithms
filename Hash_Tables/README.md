@@ -5,6 +5,8 @@ The Program
 In this assignment you will write a program to create a hash table for 5-letter words. You will need to design and implement your own hash function. Your grade will be based on both passing the functionality tests and the success of your hash function.
 
 
+
+
 The Hash Table
 
 Use chaining to resolve collisions. You must use the Standard Template Library list class for your chains.
