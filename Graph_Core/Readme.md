@@ -1,4 +1,5 @@
 Project Description
+
 Design and implement an efficient O(V + E) algorithm to find the core of a given tree T, which is undirected, connected and acyclic graph.
 
 Definition: A core of a tree T = (V, E) is the vertex s in V such that for any vertices u and v in V, that is the maximum shortest distance from s to v is less than or equal to the maximum of
