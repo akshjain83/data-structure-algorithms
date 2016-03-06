@@ -11,6 +11,7 @@ The input will consist of a set of alphanumeric (string) vertex identifiers on o
 would be input as follows:
 
 A B C D E F G
+
 A B 3
 A E 4
 B C 7 
