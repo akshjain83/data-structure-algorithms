@@ -1,7 +1,7 @@
 Citation - This assignment is from a course at California State University, Chico. Thereby, all credits for assignment instructions and program problem statement should be given to the cited personnel or organization. http://www.ecst.csuchico.edu/~judyc/1516F-csci311/assignments/program3-hash.html Professor Judith Challinger, California State University, Chico
 
 
-The Program
+#The Program
 
 This program reads a weighted undirected graph from stdin and writes the structure of the MST(Minimum Spanning Tree) to stdout.
 
@@ -76,6 +76,6 @@ Implement a min priority queue based on a min-heap using the pseudocode in Chapt
 Clearly define a public interface for each class and make everything else private.
 
 Your program must compile and execute on jaguar. That is where it will be graded. If the code can't be compiled you will receive a zero.
-Be sure to document your code and be consistent with style, naming, indentation, etc.
+
 Your program must compile and execute on jaguar using -std=c++11 -Wall -W -Werror -pedantic 
 
